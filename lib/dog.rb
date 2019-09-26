@@ -1,4 +1,4 @@
 class Dog
-  Dog.new(fido, snoopy, lassie)
+  Dog.new{fido, snoopy, lassie}
   
 end
